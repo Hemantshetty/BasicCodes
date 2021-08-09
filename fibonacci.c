@@ -1,3 +1,5 @@
+# IN C LANGUAGE
+```py
 #include <stdio.h>
 #include <stdlib.h>
 int main()
@@ -25,3 +27,17 @@ int main()
 	}
 return 0;	
 }
+```
+# IN PYHON LANGUAGE
+```js
+a,b=0,1
+print("{},{},".format(a,b),end="")
+count=2
+N=50
+while(count<=N):
+    c=a+b
+    print(str(c)+ ",",end="")
+    a=b
+    b=c
+    count+=1
+```
