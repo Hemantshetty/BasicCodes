@@ -1,8 +1,7 @@
+//Generate the pairs of user defined array and find the sum of each pairs
+```js
 #include <stdio.h>
 #include <stdlib.h>
-
-//Generate the pairs of user defined array and find the sum of each pairs
-
 int main() 
 {
 	int i,j,n,s[10][10];
@@ -26,3 +25,4 @@ int main()
 	
 	return 0;
 }
+```
