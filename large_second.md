@@ -1,6 +1,7 @@
+## TO FIND THE SECONG LARGEST NUMBER FROM THE ARRAY
+``
 #include <stdio.h>
 #include <stdlib.h>
-
 int main() 
 {
 	int n,i,large,second;
@@ -30,3 +31,4 @@ int main()
 		printf("Largest no is:%d\nSecond largest no is: %d",large,second);
 	return 0;
 }
+```
