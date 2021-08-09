@@ -1,5 +1,5 @@
 ## TO FIND THE SECONG LARGEST NUMBER FROM THE ARRAY
-``
+```
 #include <stdio.h>
 #include <stdlib.h>
 int main() 
