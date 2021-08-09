@@ -1,3 +1,4 @@
+```
 #include <stdio.h>
 #include <stdlib.h>
 int fact(int n)
@@ -32,3 +33,4 @@ float main()
 	}
 	return 0;
 }
+```
